@@ -12,6 +12,8 @@
 - [License](#license)
 - [Contact](#contact)
 
+
+
 ## Introduction
 
 LLM based Finance Agent is a powerful tool that leverages large language models (LLMs) to automatically fetch news and predict historical stock prices to forecast future prices. This repository is designed to provide financial insights using state-of-the-art natural language processing (NLP) and machine learning techniques.
